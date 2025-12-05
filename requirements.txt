@@ -1,0 +1,6 @@
+chainlit
+llama-index
+llama-index-llms-openai-like
+python-dotenv
+
+
